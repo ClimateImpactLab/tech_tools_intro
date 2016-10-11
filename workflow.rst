@@ -1,7 +1,7 @@
-Current state of CIL Workflow
------------------------------
+The Current Climate Impact Lab Workflow
+---------------------------------------
 
-Our view of the current CIL Workflow
+.. image:: img/pipeline.jpg
 
 .. toctree::
   

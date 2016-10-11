@@ -7,14 +7,14 @@ Welcome to Climate Impact Lab Tools Intro
 
 
 
-We are Mike and Justin. We work at `Rhodium Group <http://www.rhg.com>`_
+We are Mike and Justin. We work at `Rhodium Group <http://www.rhg.com>`_.
 
 
 We are here to talk about tools. If you have questions, drop us a line on slack. 
 
-Mike: mdelgado
+Mike: `@mdelgado <https://climateimpactlab.slack.com/messages/@mdelgado/>`_
 
-Justin: jsimcock
+Justin: `@jsimcock <https://climateimpactlab.slack.com/messages/@jsimcock/>`_
 
 
 
@@ -23,11 +23,12 @@ Justin: jsimcock
 
 .. toctree::
   
-  intro
   welcome
-  workflow
   goals
+  workflow
+  example
   best_practices
+  tools
   future
   questions
 
