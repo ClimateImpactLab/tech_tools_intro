@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'tech_tools_intro'
+project = u'impactlabtools'
 copyright = u'2016, Author'
 author = u'Author'
 
@@ -206,7 +206,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'tech_tools_intro'
+htmlhelp_basename = 'impactlabtools'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -228,7 +228,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'tech_tools_intro.tex', u'tech_tools_intro Documentation',
+  (master_doc, 'impactlabtools.tex', u'impactlabtools Documentation',
    u'Author', 'manual'),
 ]
 
@@ -258,7 +258,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'tech_tools_intro', u'tech_tools_intro Documentation',
+    (master_doc, 'impactlabtools', u'impactlabtools Documentation',
      [author], 1)
 ]
 
@@ -272,8 +272,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'tech_tools_intro', u'tech_tools_intro Documentation',
-   author, 'tech_tools_intro', 'One line description of project.',
+  (master_doc, 'impactlabtools', u'impactlabtools Documentation',
+   author, 'impactlabtools', 'One line description of project.',
    'Miscellaneous'),
 ]
 
