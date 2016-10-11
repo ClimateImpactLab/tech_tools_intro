@@ -3,21 +3,33 @@
 Best Practices
 -------------------
 
-* Document your data on ingestion:
+Document your data on ingestion::
 
-  * Name
+  oneline: One-line description or title for the file
+  version: PROJECT.DESCRIPTIVE_VARIABLE_NAME.YYYY-MM-DD.NUMBER
 
-  * Description: e.g. Annual crop yields for Brazil
+  author: your name
+  contact: your email
 
-      * Also include notes, use cases, caveats, limitations, method
-  
-  * Source url or otherwise
-  
-  * Repo & tag
-  
-  * Author/Preparer
-  
-  * Contact
+  dependencies:
+    - Dependency 1 Version
+    - Dependency 2 Version
+
+  variables:
+    column 1 name: 
+        long_name: Variable description
+        unit: Units
+        source: source
+    column 2 name: 
+        long_name: Variable description
+        unit: Units
+        source: source
+
+  description: Anything else you’d like to say.
+
+  important rules:
+    - Spaces only - NO TABS!
+    - ALWAYS INCLUDE A VERSION NUMBER!
 
 * Document your data on modification:
   
