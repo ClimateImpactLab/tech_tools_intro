@@ -1,0 +1,31 @@
+---
+oneline: One-line description or title for the file
+version: PROJECT.TEAM.DESCRIPTIVE_VARIABLE_NAME.YYYY-MM-DD.NUMBER
+
+author: your name
+contact: your email
+
+dependencies:
+  - Dependency 1 Version
+  - Dependency 2 Version
+
+variables:
+  column 1 name: 
+      long_name: Variable description
+      unit: Units
+      source: source
+  column 2 name: 
+      long_name: Variable description
+      unit: Units
+      source: source
+
+description: Anything else you’d like to say.
+
+important rules:
+  - Spaces only - NO TABS!
+  - ALWAYS INCLUDE A VERSION NUMBER!
+
+...
+,column 1 name,column 2 name
+row1,val11,val12
+row2,val21,val22

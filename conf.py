@@ -52,8 +52,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'impactlabtools'
-copyright = u'2016, Author'
-author = u'Author'
+copyright = u'2016, Climate Impact Lab'
+author = u'Climate Impact Lab'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

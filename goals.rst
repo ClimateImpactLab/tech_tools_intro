@@ -1,22 +1,26 @@
 .. goals
 
-Goals of Data API
------------------
+Goals for the Climate Impact Lab Workflow
+---------------------------------------------------
 
-A Data API provides structure and reasoning around the organization of data. 
+Our analysis should have the following qualities:
 
-We are doing this for a number of reasons:
+1. **Transparent** 
 
-1. Automatic documentation of process: If we think in terms of data pipelines and analytical cycles, a system that helps us easily document and describe data expedites the information feedback of the analytical cycle. 
+    It is important that researchers across the team and in the wider scientific & economic communities understand and feel comfortable with our methods.
 
+2. **Reproducibile**
 
-2. Attribution/Citation: A data trail tracking ingestion, modification, and use throughout the analytical cycle
+    We need to version and document code & data so we can reproduce past results.
 
+3. **Clear, Usable, and Resilient**
 
-3. Reproducibility: Everyone can easily understand how data and analysis led to certain outputs
+    We have a lot of team members and a lot of research going on. Documentation is critical to ensuring a long project life!
 
+4. **Maintain Attribution**
 
-4. Clarity/Usability/Resilience: With this kind of transparency, the data, and its documentation explicitly represent the process, Knowledge becomes generally available and usable. 
+    We need to maintain a data trail tracking ingestion, modification, and use of source data throughout the analytical cycle
 
+5. **Efficient**
 
-5. Optimization: Researchers can spend time on research as opposed to searching for data, its origin, and its purpose.
+    Use industry standard tools so researchers can spend time on research!
