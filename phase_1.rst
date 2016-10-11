@@ -1,8 +1,8 @@
 .. phase_1
 
 
-Phase 1: Simulation of Climate Impact Models
---------------------------------------------
+Phase 1: Simulation 
+-------------------
 
 * Inputs: CSVV's and some Weather Data
 
@@ -18,3 +18,5 @@ Phase 1: Simulation of Climate Impact Models
 
 
 * Outputs: Damage estimates in for binned data by region in .csv format 
+
+* `More <https://bitbucket.org/ClimateImpactLab/physical_climate/wiki/Step-by-step%20process>`_

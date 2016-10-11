@@ -10,4 +10,4 @@ Phase -1: Climate data prep
 
   * Outputs: Gridded data at arbitrary region granularity
 
-  * Stored on Norgay
+  * `Bitbucket repo <https://bitbucket.org/ClimateImpactLab/physical_climate/wiki/Step-by-step%20process>`_
